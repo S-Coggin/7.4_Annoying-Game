@@ -1,2 +1,2 @@
-# 7.4_Annoying-Game
+#Annoying-Game
 Infinite while loop prompt
